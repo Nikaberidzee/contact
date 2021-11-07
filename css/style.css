@@ -24,6 +24,8 @@ margin: 0 auto;
 /* header end */
 /* section 1 start */
 .text-section{
+    max-width: 1360px;
+    width: 100%;
     margin: 0 auto 50px;
     padding-left: 139px;
     display: flex;
